@@ -11,7 +11,7 @@ Chegamos ao desafio prático do minicurso: Configurando projetos: Git e Github n
 - Neste arquivo vocês devem escrever o nome completo e contar um pouco de como foi sua experiência no curso. (O arquivo saldanha.txt no repositorio poderá ser usado como exemplo);
 - Adicionar o arquivo que vocês criaram na branch criada;
 - Commitar o arquivo que vocês criaram na branch criada;
-- Enviar arquivos para o github na branch criada; (O git vai mostrar o comando necessário quando vocês tentarem dar o git push, exemplo será mostrado em aula);
+- Enviar arquivos para o github na branch criada; (O git vai mostrar o comando necessário quando vocês tentarem dar o git push, exemplo mostrado em aula);
 - Criar um PR (Pull Request) para este repositório.
 
   
