@@ -7,7 +7,7 @@ Chegamos ao desafio prático do minicurso: Configurando projetos: Git e Github n
 - Clonar este repositório para a maquina de vocês;
 - Verificar se o repositório está atualizado; (git pull);
 - Criar uma nova branch. O nome da branch deve ser o nome de vocês seguido da matrícula. Ex: Saldanha_497365;
-- Criar um novo arquivo .txt no código. O nome do arquivo deve ser a sua matricula. Ex: saldanha.txt;
+- Criar um novo arquivo .txt no código. O nome do arquivo deve ser o seu nome.txt. Ex: saldanha.txt;
 - Neste arquivo vocês devem escrever o nome completo e contar um pouco de como foi sua experiência no curso. (O arquivo saldanha.txt no repositorio poderá ser usado como exemplo);
 - Adicionar o arquivo que vocês criaram na branch criada;
 - Commitar o arquivo que vocês criaram na branch criada;
