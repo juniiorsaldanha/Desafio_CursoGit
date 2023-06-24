@@ -1,0 +1,5 @@
+Olá, meu nome completo é: Giulia de Oliveira Saunders. 
+
+Gostei muito de participar do curso de Git e Github fornecido pelo Learning Lab.
+Aprendi bastante sobre como usar essas ferramnetas e aplicá-las ao meu favor durante 
+o processo de desenvolvimento de algum projeto. Por isso, obrigada pelo aprendizado, valeu muito!
