@@ -1,5 +1,0 @@
-Olá meu nome é: Giulia de Oliveira Saunders.
-
-Gostei bastante de fazer o curso de Git e Github ofertado pelo Learning Lab.
-Acredito que vou utilizar bastante do que foi ensinado em gerenciamento e desenvolvimento de projetos.
-Valeu muito a pena!
