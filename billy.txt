@@ -1,0 +1,7 @@
+Olá, meu nome completo é: Billy Grahan Alves Rodrigues
+
+Participei do mini-curso de Git e github o qual foi muito
+bom tendo em vista que ja havia usado git e githab
+em um trabalho em grupo, mas ainda não sabia como usa-lo corretamente.
+Para mim a parte teorica foi muito bem dada e era a que eu mais precisava, 
+e tambem aprendi alguns comandos que eu ainda não conhecia.
